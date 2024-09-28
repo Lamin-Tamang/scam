@@ -5,7 +5,7 @@
 ### Meet Our Team:
 - **Rasad Regmi**: A passionate software engineering student with a strong foundation in full-stack development and a keen interest in solving real-world problems through technology.
 - **Lamin Tamang**: An innovative backend developer skilled in Node.js and database management, always eager to explore new technologies and improve existing systems.
-- **Astha Thapa**: A dynamic team player with a background in data analysis and machine learning, committed to making impactful contributions to the project.
+- **Astha Thapa**: A dynamic team player with a background in frontend development, committed to making impactful contributions to the project.
 - **Pranav Subedi**: A creative frontend developer proficient in React.js, dedicated to creating user-friendly and visually appealing interfaces.
 
 ---
