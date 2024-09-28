@@ -51,7 +51,7 @@ Our project, **Scam Aggregator**, is designed to provide a platform where users 
    Open your browser and navigate to http://localhost:3000 to explore the Scam Aggregator.
 
 <h2>Contributions</h2>
-  Rasad Regmi: Handled full-stack development, integrating both frontend and backend functionalities.
-  Lamin Tamang: Managed the backend development, focusing on server-side logic and database interactions.
-  Astha Thapa: Contributed to frontend development, enhancing the user interface and experience.
-  Pranav Subedi: Focused on frontend development, creating responsive and interactive components.
+  Rasad Regmi: Handled full-stack development, integrating both frontend and backend functionalities.<br>
+  Lamin Tamang: Managed the backend development, focusing on server-side logic and database interactions.<br>
+  Astha Thapa: Contributed to frontend development, enhancing the user interface and experience.<br>
+  Pranav Subedi: Focused on frontend development, creating responsive and interactive components.<br>
