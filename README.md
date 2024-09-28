@@ -1,4 +1,4 @@
-# Scam Aggregator
+# Aegis
 
 ## Team Details
 
