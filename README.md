@@ -23,7 +23,7 @@ Our project, **Scam Aggregator**, is designed to provide a platform where users 
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/rasadregmi/scam.git
    cd scam-aggregator
 
 2. **Install Dependencies**:
